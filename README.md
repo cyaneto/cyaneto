@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+My name is Cayro Neto and here is where I post my coding ideias. 
+
+Meu nome é Cayro Neto e aqui estão minhas ideias que eu transformo em código.
 <!--
 **cyaneto/cyaneto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
