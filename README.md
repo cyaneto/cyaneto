@@ -34,7 +34,7 @@ Meu nome é Cayro Neto e aqui estão minhas ideias que eu transformo em código.
 <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/>  
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>  
 <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"/> 
-<img src="https://img.shields.io/badge/00000F?style=for-the-badge&logo=mysql&logoColor=white"/>  
+<img src="https://img.shields.io/badge/-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>  
 
 
 
