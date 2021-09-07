@@ -37,7 +37,7 @@ Meu nome é Cayro Neto e aqui estão minhas ideias que eu transformo em código.
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>  
 
 
-<img src=""/>  
+%<img src=""/>  
 
 
 [medium]: https://cyaneto.medium.com/
