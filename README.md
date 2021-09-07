@@ -7,7 +7,7 @@ Meu nome é Cayro Neto e aqui estão minhas ideias que eu transformo em código.
 ### About me:
 
 - 🐍 I’m a pythonist from heart and soul
-- 📚 I’m currently studying Power BI and keras/tensorflow
+- 📚 I’m currently studying Power BI and keras/tensorflow on <img scr="https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F"/>
 - 🔭 I’m looking for Data Science Intern jobs
 - 🪐 I'm in the last semester of Physics graduation on UFMG
 - 🎈 Fun fact: I love drawing and sewing
