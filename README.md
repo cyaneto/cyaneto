@@ -20,7 +20,7 @@ Meu nome é Cayro Neto e aqui estão minhas ideias que eu transformo em código.
 
 ### My tecnical habilities habiliess:
 
-<img src=https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white>
+<img src=https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white/>
 
 
 
