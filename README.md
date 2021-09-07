@@ -14,9 +14,9 @@ Meu nome é Cayro Neto e aqui estão minhas ideias que eu transformo em código.
 
 ### You can find me on my:
 
-Medium: [<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />][medium]
-LinkedIn: [linkedin]
-Instagram: [instagram]
+[<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />][medium]
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
 
 
 [medium]: https://cyaneto.medium.com/
