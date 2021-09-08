@@ -12,7 +12,7 @@ Meu nome é Cayro Neto e aqui estão minhas ideias que eu transformo em código.
 - 🪐 I'm in the last semester of Physics graduation on UFMG
 - 🎈 Fun fact: I love drawing and sewing
 
-### You can find  moe about me on my:
+### You can find  more about me on my:
 
 [<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />][medium]
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
